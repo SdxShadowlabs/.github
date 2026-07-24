@@ -23,17 +23,17 @@
 
 <br>
 
-### 💀 Who We Are
+### Who We Are
 
 At **SDX Shadow Labs**, we don't just run automated scanners and hand over generated PDFs. We operate as elite offensive security researchers, diving deep into your architecture and source code to uncover complex logic flaws, chained exploits, and critical vulnerabilities that automated tools leave behind.
 
-### ⚔️ Our Arsenal
+### Our Arsenal
 
 *   **Deep-Dive Source Code Audits:** Comprehensive manual reviews to find business logic flaws and hidden vulnerabilities.
 *   **Advanced Penetration Testing:** Realistic adversarial simulations against web apps, APIs, and infrastructure.
 *   **Secure Architecture & SDLC:** Helping engineering teams design secure systems from the ground up.
 
-### 📡 Open Source & Intel
+### Open Source & Intel
 
 We believe in elevating the security community. In this organization, you will find:
 *   **Methodologies & Checklists:** Our internal guides for securing and auditing modern technology stacks.
@@ -42,7 +42,7 @@ We believe in elevating the security community. In this organization, you will f
 
 ---
 
-### 📩 Engage With Us
+### Engage With Us
 
 Are you building critical infrastructure or handling sensitive data? Stop relying on automated checklists. Let our experts provide the deep, adversarial security assurance your product needs.
 
